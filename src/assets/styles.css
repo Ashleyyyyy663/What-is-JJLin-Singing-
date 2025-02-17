@@ -1,0 +1,12 @@
+.timeline-line {
+  stroke: #3D3D3D;
+  stroke-width: 2;
+  stroke-dasharray: 5, 5;
+  opacity: 0.3;
+}
+
+.timeline-text {
+  font-size: 18px;
+  font-weight: bold;
+  text-anchor: middle;
+}

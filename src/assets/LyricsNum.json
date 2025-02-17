@@ -1,0 +1,832 @@
+{
+  "name": "林俊杰",
+  "children": [
+      {
+          "name": "乐行者",
+          "children": [
+              {
+                  "name": "不懂",
+                  "value": 297
+              },
+              {
+                  "name": "翅膀",
+                  "value": 288
+              },
+              {
+                  "name": "冻结",
+                  "value": 517
+              },
+              {
+                  "name": "会读书",
+                  "value": 491
+              },
+              {
+                  "name": "会有那么一天",
+                  "value": 288
+              },
+              {
+                  "name": "就是我",
+                  "value": 398
+              },
+              {
+                  "name": "女儿家",
+                  "value": 368
+              },
+              {
+                  "name": "让我心动的人",
+                  "value": 323
+              },
+              {
+                  "name": "星空下的吻",
+                  "value": 449
+              },
+              {
+                  "name": "星球",
+                  "value": 482
+              },
+              {
+                  "name": "压力",
+                  "value": 376
+              }
+          ]
+      },
+      {
+          "name": "第二天堂",
+          "children": [
+              {
+                  "name": "Endless Road",
+                  "value": 715
+              },
+              {
+                  "name": "第二天堂",
+                  "value": 502
+              },
+              {
+                  "name": "豆浆油条",
+                  "value": 447
+              },
+              {
+                  "name": "害怕",
+                  "value": 349
+              },
+              {
+                  "name": "江南",
+                  "value": 374
+              },
+              {
+                  "name": "精灵",
+                  "value": 390
+              },
+              {
+                  "name": "距离",
+                  "value": 285
+              },
+              {
+                  "name": "美人鱼",
+                  "value": 428
+              },
+              {
+                  "name": "起床了",
+                  "value": 498
+              },
+              {
+                  "name": "森林浴",
+                  "value": 190
+              },
+              {
+                  "name": "天使心",
+                  "value": 441
+              },
+              {
+                  "name": "未完成",
+                  "value": 214
+              },
+              {
+                  "name": "相信无限",
+                  "value": 400
+              },
+              {
+                  "name": "一开始",
+                  "value": 0
+              },
+              {
+                  "name": "子弹列车",
+                  "value": 434
+              }
+          ]
+      },
+      {
+          "name": "编号89757",
+          "children": [
+              {
+                  "name": "编号89757",
+                  "value": 406
+              },
+              {
+                  "name": "盗",
+                  "value": 438
+              },
+              {
+                  "name": "简简单单",
+                  "value": 269
+              },
+              {
+                  "name": "来不及了",
+                  "value": 120
+              },
+              {
+                  "name": "明天",
+                  "value": 340
+              },
+              {
+                  "name": "木乃伊",
+                  "value": 391
+              },
+              {
+                  "name": "莎士比亚的天份",
+                  "value": 330
+              },
+              {
+                  "name": "听不懂 没关系",
+                  "value": 415
+              },
+              {
+                  "name": "突然累了",
+                  "value": 292
+              },
+              {
+                  "name": "无尽的思念",
+                  "value": 264
+              },
+              {
+                  "name": "一千年以后",
+                  "value": 299
+              },
+              {
+                  "name": "一千年以前",
+                  "value": 0
+              }
+          ]
+      },
+      {
+          "name": "曹操",
+          "children": [
+              {
+                  "name": "Down(demo)",
+                  "value": 264
+              },
+              {
+                  "name": "Now That She's Gone",
+                  "value": 318
+              },
+              {
+                  "name": "爱情Yogurt",
+                  "value": 332
+              },
+              {
+                  "name": "波间带",
+                  "value": 329
+              },
+              {
+                  "name": "不死之身",
+                  "value": 258
+              },
+              {
+                  "name": "曹操",
+                  "value": 299
+              },
+              {
+                  "name": "进化论",
+                  "value": 300
+              },
+              {
+                  "name": "流行主教",
+                  "value": 255
+              },
+              {
+                  "name": "你要的不是我",
+                  "value": 292
+              },
+              {
+                  "name": "撒浪嘿呦只对你说",
+                  "value": 359
+              },
+              {
+                  "name": "熟能生巧",
+                  "value": 352
+              },
+              {
+                  "name": "原来",
+                  "value": 363
+              }
+          ]
+      },
+      {
+          "name": "西界",
+          "children": [
+              {
+                  "name": "Baby Baby",
+                  "value": 324
+              },
+              {
+                  "name": "K-O",
+                  "value": 283
+              },
+              {
+                  "name": "L-O-V-E",
+                  "value": 552
+              },
+              {
+                  "name": "不流泪的机场",
+                  "value": 377
+              },
+              {
+                  "name": "大男人·小女孩",
+                  "value": 351
+              },
+              {
+                  "name": "独白",
+                  "value": 55
+              },
+              {
+                  "name": "发现爱",
+                  "value": 215
+              },
+              {
+                  "name": "江南（粤语）",
+                  "value": 373
+              },
+              {
+                  "name": "杀手",
+                  "value": 318
+              },
+              {
+                  "name": "杀手@续",
+                  "value": 75
+              },
+              {
+                  "name": "无聊",
+                  "value": 405
+              },
+              {
+                  "name": "西界",
+                  "value": 367
+              },
+              {
+                  "name": "自由不变",
+                  "value": 275
+              }
+          ]
+      },
+      {
+          "name": "JJ陆",
+          "children": [
+              {
+                  "name": "Always Online",
+                  "value": 308
+              },
+              {
+                  "name": "Cries In A Distance",
+                  "value": 757
+              },
+              {
+                  "name": "Sixology（口白）",
+                  "value": 33
+              },
+              {
+                  "name": "爱与希望",
+                  "value": 229
+              },
+              {
+                  "name": "不潮不用花钱",
+                  "value": 414
+              },
+              {
+                  "name": "点一把火炬",
+                  "value": 371
+              },
+              {
+                  "name": "黑武士",
+                  "value": 337
+              },
+              {
+                  "name": "街道",
+                  "value": 536
+              },
+              {
+                  "name": "期待爱",
+                  "value": 339
+              },
+              {
+                  "name": "我还想她",
+                  "value": 313
+              },
+              {
+                  "name": "小酒窝",
+                  "value": 349
+              },
+              {
+                  "name": "由你选择",
+                  "value": 370
+              },
+              {
+                  "name": "主角",
+                  "value": 552
+              },
+              {
+                  "name": "醉赤壁",
+                  "value": 352
+              }
+          ]
+      },
+      {
+          "name": "100天",
+          "children": [
+              {
+                  "name": "Still Moving Under Gunfire",
+                  "value": 295
+              },
+              {
+                  "name": "X",
+                  "value": 405
+              },
+              {
+                  "name": "爱不会绝迹",
+                  "value": 356
+              },
+              {
+                  "name": "背对背拥抱",
+                  "value": 327
+              },
+              {
+                  "name": "表达爱",
+                  "value": 223
+              },
+              {
+                  "name": "第几个100天",
+                  "value": 305
+              },
+              {
+                  "name": "跟屁虫",
+                  "value": 356
+              },
+              {
+                  "name": "加油",
+                  "value": 490
+              },
+              {
+                  "name": "妈妈的娜鲁娃",
+                  "value": 260
+              },
+              {
+                  "name": "曙光",
+                  "value": 149
+              },
+              {
+                  "name": "无法克制",
+                  "value": 349
+              },
+              {
+                  "name": "一个又一个",
+                  "value": 283
+              },
+              {
+                  "name": "转动",
+                  "value": 338
+              }
+          ]
+      },
+      {
+          "name": "她说",
+          "children": [
+              {
+                  "name": "I AM",
+                  "value": 141
+              },
+              {
+                  "name": "爱笑的眼睛",
+                  "value": 376
+              },
+              {
+                  "name": "保护色",
+                  "value": 365
+              },
+              {
+                  "name": "当你",
+                  "value": 421
+              },
+              {
+                  "name": "记得",
+                  "value": 351
+              },
+              {
+                  "name": "她说",
+                  "value": 385
+              },
+              {
+                  "name": "完美新世界",
+                  "value": 293
+              },
+              {
+                  "name": "我很想爱他",
+                  "value": 259
+              },
+              {
+                  "name": "握不住的他",
+                  "value": 340
+              },
+              {
+                  "name": "心墙",
+                  "value": 354
+              },
+              {
+                  "name": "一生的爱",
+                  "value": 291
+              },
+              {
+                  "name": "一眼万年",
+                  "value": 369
+              },
+              {
+                  "name": "真材实料的我",
+                  "value": 258
+              },
+              {
+                  "name": "只对你有感觉",
+                  "value": 433
+              }
+          ]
+      },
+      {
+          "name": "学不会",
+          "children": [
+              {
+                  "name": "Cinderella",
+                  "value": 916
+              },
+              {
+                  "name": "Love U U",
+                  "value": 237
+              },
+              {
+                  "name": "We Together",
+                  "value": 412
+              },
+              {
+                  "name": "白兰花",
+                  "value": 356
+              },
+              {
+                  "name": "白羊梦",
+                  "value": 356
+              },
+              {
+                  "name": "不存在的情人",
+                  "value": 313
+              },
+              {
+                  "name": "独奏",
+                  "value": 0
+              },
+              {
+                  "name": "故事细腻",
+                  "value": 280
+              },
+              {
+                  "name": "灵魂的共鸣",
+                  "value": 399
+              },
+              {
+                  "name": "陌生老朋友",
+                  "value": 472
+              },
+              {
+                  "name": "那些你很冒险的梦",
+                  "value": 309
+              },
+              {
+                  "name": "学不会",
+                  "value": 275
+              }
+          ]
+      },
+      {
+          "name": "因你而在",
+          "children": [
+              {
+                  "name": "One Shot（feat.王力宏）",
+                  "value": 442
+              },
+              {
+                  "name": "巴洛克先生（feat.王力宏）",
+                  "value": 0
+              },
+              {
+                  "name": "飞机（林俊峰）",
+                  "value": 243
+              },
+              {
+                  "name": "黑暗骑士",
+                  "value": 529
+              },
+              {
+                  "name": "裂缝中的阳光",
+                  "value": 330
+              },
+              {
+                  "name": "零度的亲吻",
+                  "value": 236
+              },
+              {
+                  "name": "十秒的冲动",
+                  "value": 233
+              },
+              {
+                  "name": "修炼爱情",
+                  "value": 432
+              },
+              {
+                  "name": "一千年后，记得我",
+                  "value": 314
+              },
+              {
+                  "name": "以后要做的事",
+                  "value": 356
+              },
+              {
+                  "name": "因你而在",
+                  "value": 433
+              },
+              {
+                  "name": "友人说（feat.怀秋）",
+                  "value": 437
+              }
+          ]
+      },
+      {
+          "name": "新地球",
+          "children": [
+              {
+                  "name": "I Am Alive",
+                  "value": 333
+              },
+              {
+                  "name": "Lamando",
+                  "value": 267
+              },
+              {
+                  "name": "爱的鼓励",
+                  "value": 366
+              },
+              {
+                  "name": "黑键",
+                  "value": 421
+              },
+              {
+                  "name": "迴",
+                  "value": 0
+              },
+              {
+                  "name": "可惜没如果",
+                  "value": 398
+              },
+              {
+                  "name": "浪漫血液",
+                  "value": 335
+              },
+              {
+                  "name": "茉莉雨",
+                  "value": 296
+              },
+              {
+                  "name": "生生",
+                  "value": 355
+              },
+              {
+                  "name": "手心的蔷薇",
+                  "value": 296
+              },
+              {
+                  "name": "水仙",
+                  "value": 282
+              },
+              {
+                  "name": "新地球",
+                  "value": 365
+              }
+          ]
+      },
+      {
+          "name": "和自己对话",
+          "children": [
+              {
+                  "name": "Lier and Accuser",
+                  "value": 179
+              },
+              {
+                  "name": "Too Bad",
+                  "value": 318
+              },
+              {
+                  "name": "不为谁而作的歌",
+                  "value": 341
+              },
+              {
+                  "name": "弹唱",
+                  "value": 280
+              },
+              {
+                  "name": "独舞",
+                  "value": 399
+              },
+              {
+                  "name": "关键词",
+                  "value": 280
+              },
+              {
+                  "name": "你，有没有过",
+                  "value": 309
+              },
+              {
+                  "name": "你，有没有过（Livehouse版）",
+                  "value": 304
+              },
+              {
+                  "name": "全面开战",
+                  "value": 309
+              },
+              {
+                  "name": "现在的我和她",
+                  "value": 163
+              },
+              {
+                  "name": "序曲：12年前",
+                  "value": 1638
+              },
+              {
+                  "name": "序曲：Welcome to the Livehouse",
+                  "value": 115
+              },
+              {
+                  "name": "序曲：弹唱",
+                  "value": 280
+              },
+              {
+                  "name": "序曲：海边 初",
+                  "value": 0
+              },
+              {
+                  "name": "序曲：海边 终",
+                  "value": 0
+              },
+              {
+                  "name": "序曲：中场休息",
+                  "value": 0
+              },
+              {
+                  "name": "有梦不难",
+                  "value": 491
+              },
+              {
+                  "name": "只要有你的地方",
+                  "value": 351
+              },
+              {
+                  "name": "只要有你的地方（晚安版）",
+                  "value": 349
+              }
+          ]
+      },
+      {
+          "name": "伟大的渺小",
+          "children": [
+              {
+                  "name": "Untill the Day",
+                  "value": 261
+              },
+              {
+                  "name": "穿越",
+                  "value": 408
+              },
+              {
+                  "name": "丹宁执着",
+                  "value": 406
+              },
+              {
+                  "name": "黑夜问白天",
+                  "value": 353
+              },
+              {
+                  "name": "剪云者",
+                  "value": 279
+              },
+              {
+                  "name": "身为风帆",
+                  "value": 195
+              },
+              {
+                  "name": "圣所",
+                  "value": 190
+              },
+              {
+                  "name": "四点四十四",
+                  "value": 416
+              },
+              {
+                  "name": "伟大的渺小",
+                  "value": 339
+              },
+              {
+                  "name": "我继续",
+                  "value": 459
+              },
+              {
+                  "name": "小瓶子",
+                  "value": 275
+              }
+          ]
+      },
+      {
+          "name": "幸存者",
+          "children": [
+              {
+                  "name": "交换余生",
+                  "value": 303
+              },
+              {
+                  "name": "离开的那一些",
+                  "value": 330
+              },
+              {
+                  "name": "幸存者",
+                  "value": 349
+              },
+              {
+                  "name": "暂时的记号",
+                  "value": 338
+              },
+              {
+                  "name": "最好是",
+                  "value": 425
+              },
+              {
+                  "name": "最向往的地方",
+                  "value": 477
+              }
+          ]
+      },
+      {
+          "name": "重拾_快乐",
+          "children": [
+              {
+                  "name": "7千3百多天",
+                  "value": 322
+              },
+              {
+                  "name": "Castle in the air",
+                  "value": 264
+              },
+              {
+                  "name": "孤独娱乐",
+                  "value": 259
+              },
+              {
+                  "name": "黑色泡沫",
+                  "value": 492
+              },
+              {
+                  "name": "梦不凌乱",
+                  "value": 260
+              },
+              {
+                  "name": "你都在",
+                  "value": 265
+              },
+              {
+                  "name": "逆光白",
+                  "value": 309
+              },
+              {
+                  "name": "如果我还剩一件事情可以做",
+                  "value": 334
+              },
+              {
+                  "name": "谢幕",
+                  "value": 428
+              },
+              {
+                  "name": "一时的选择",
+                  "value": 336
+              },
+              {
+                  "name": "愿与愁",
+                  "value": 393
+              },
+              {
+                  "name": "自画像",
+                  "value": 338
+              }
+          ]
+      }
+  ]
+}
